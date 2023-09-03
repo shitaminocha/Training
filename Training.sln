@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Training", "Training\Training.pyproj", "{A5CA6A86-2008-409D-A858-28F6F1B624F6}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Training", "Training.pyproj", "{A5CA6A86-2008-409D-A858-28F6F1B624F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
